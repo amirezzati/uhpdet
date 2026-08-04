@@ -1,0 +1,25 @@
+# Compiled source
+*.out
+*.o
+*.pyc
+*.class
+*.exe
+*.model
+*.joblib
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+
+# Large directories. (images)
+Benchmark_Images/

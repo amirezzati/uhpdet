@@ -1,0 +1,15 @@
+name: halclassifier
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11           # You can specify your preferred python version
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - joblib
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - ipykernel            # Optional: if you plan to use Jupyter Notebooks
