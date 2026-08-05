@@ -2,7 +2,7 @@
 
 **LVLMs have their hallucination pattern in the consistency space**
 
-[PAPER_LINK] · [AUTHORS]
+[Paper](https://arxiv.org/abs/2608.03817) · Amir Mohammad Ezzati, Kiyan Rezaee, Bardiya Kariminia, Mohamad Amin Yousefi, Asal Mohammadjafari Mamaqani, Behrad Samimi, Mohammad Hossein Rohban
 
 This repository contains the implementation for UHP (Unified Hallucination Pattern)
 Detection: a framework that detects hallucinations in Large Vision-Language Models
@@ -127,6 +127,14 @@ fields) into the schema consumed by `inference.py`.
 
 ## Citation
 
-```
-[CITATION]
+```bibtex
+@misc{ezzati2026uhpdetectionlvlmsunique,
+      title={UHP Detection: LVLMs have their Unique Hallucination Pattern in the Consistency Space},
+      author={Amir Mohammad Ezzati and Kiyan Rezaee and Bardiya Kariminia and Mohamad Amin Yousefi and Asal Mohammadjafari Mamaqani and Behrad Samimi and Mohammad Hossein Rohban},
+      year={2026},
+      eprint={2608.03817},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.03817},
+}
 ```
